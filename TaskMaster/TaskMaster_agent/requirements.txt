@@ -1,0 +1,7 @@
+fastapi>=0.128.0
+livekit-agents[openai]~=1.3
+livekit-api>=1.1.0
+livekit-plugins-noise-cancellation~=0.2
+livekit-plugins-silero~=1.3
+python-dotenv>=1.2.1
+uvicorn>=0.40.0
